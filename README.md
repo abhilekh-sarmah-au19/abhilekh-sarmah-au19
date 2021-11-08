@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @abhilekh-sarmah-au19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web development,front end developer, develope a game
+- 🌱 I’m currently learning Software engineering course from AttainU
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abhilekh-sarmah-au19/abhilekh-sarmah-au19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me abhilekhsarmah200@gmail.com
